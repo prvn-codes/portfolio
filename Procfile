@@ -1,1 +1,1 @@
-web : README.md
+web : python README.md
