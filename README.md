@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Praveen S
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hi, My name is Praveen S
 =================================================================================================================================
 ## 💫 About Me:
 🔭 I’m currently working with [CultureMonkey](https://www.culturemonkey.io/) as a Full-stack developer and Tech SEO Executive <br>👯 I’m looking to collaborate on software / web development, UI/UX<br>🤝 I’m looking for help with learning hardcore Ruby on Rails<br>🌱 I’m currently learning GatsbyJS, Ruby on Rails<br>💬 Ask me about anything but nothing<br>⚡ Fun fact, I am the Mechanic 🪛
